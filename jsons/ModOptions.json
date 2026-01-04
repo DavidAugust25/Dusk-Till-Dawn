@@ -1,0 +1,17 @@
+{
+    "constants":
+    {
+        "maxLakeSize": 25,
+        "riverCountMultiplier": 0.045,
+        "religionLimitBase": 0,
+        "religionLimitMultiplier": 1,
+        "unitSupplyPerPopulation": 1,
+        "pantheonBase": 20,
+        "pantheonGrowth": 2,
+        "tributeGlobalModifier": 50,
+        "tributeLocalModifier": 150,
+        "scoreFromPopulation": 4,
+        "scoreFromWonders": 25
+    },
+    "isBaseRuleset": true
+}
