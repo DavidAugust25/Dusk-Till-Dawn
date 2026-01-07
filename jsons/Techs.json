@@ -844,25 +844,25 @@
             {
                 "name": "UpperRenaissanceAge1",
                 "row": 2,
-                "prerequisites": ["MiddleRenaissanceAge1"],
+                "prerequisites": ["Biology"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperRenaissanceAge2",
                 "row": 5,
-                "prerequisites": ["MiddleRenaissanceAge2"],
+                "prerequisites": ["Electricity"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperRenaissanceAge3",
                 "row": 7,
-                "prerequisites": ["MiddleRenaissanceAge3"],
+                "prerequisites": ["Steam Power"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperRenaissanceAge4",
                 "row": 9,
-                "prerequisites": ["MiddleRenaissanceAge4"],
+                "prerequisites": ["Dynamite"],
                 "quote": "'+1 Science in all cities"
             }
         ]

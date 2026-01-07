@@ -1,7 +1,7 @@
 [
     {
         "name": "Tradition",
-        "era": "Ancient era",
+        "era": "Stone Age",
         "uniques": [
             "[+3 Culture] from every [Palace]",
             "[-25]% Culture cost of natural border growth [in all cities]",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Liberty",
-        "era": "Ancient era",
+        "era": "Stone Age",
         "uniques": [
             "[+1 Culture] [in all cities]",
             "Comment [Unlocks [The Pyramids]]",
@@ -176,7 +176,7 @@
     },
     {
         "name": "Honor",
-        "era": "Ancient era",
+        "era": "Stone Age",
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
             "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
@@ -258,7 +258,7 @@
     },
     {
         "name": "Piety",
-        "era": "Ancient era",
+        "era": "Stone Age",
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
@@ -340,7 +340,7 @@
     },
     {
         "name": "Aesthetics",
-        "era": "Classical era",
+        "era": "Classical Age",
         "uniques": [
             "[Great Artist] is earned [25]% faster",
             "[Great Writer] is earned [25]% faster",
@@ -434,7 +434,7 @@
     },
     {
         "name": "Patronage",
-        "era": "Classical era",
+        "era": "Classical Age",
         "uniques": [
             "Resting point for Influence with City-States is increased by [20]",
             "Comment [Unlocks [Forbidden Palace]]",
@@ -514,7 +514,7 @@
             "Comment [Unlocks [Conquistador]]",
             "Provides [1] [Policies]"
         ],
-        "era": "Medieval era",
+        "era": "Medieval Age",
         "policies": [
             {
                 "name": "Naval Tradition",
@@ -591,7 +591,7 @@
             "Comment [Unlocks [Big Ben]]",
             "Provides [1] [Policies]"
         ],
-        "era": "Medieval era",
+        "era": "Medieval Age",
         "policies": [
             {
                 "name": "Silk Road",
@@ -668,7 +668,7 @@
     },
     {
         "name": "Rationalism",
-        "era": "Renaissance era",
+        "era": "Renaissance Age",
         "uniques": [
             "[Great Scientist] is earned [20]% faster",
             "Comment [Unlocks [Porcelain Tower]]",
@@ -745,7 +745,7 @@
     },
     {
         "name": "Order",
-        "era": "Ancient era",
+        "era": "Stone Age",
         "uniques": [
             "Comment [Unlocks [Kremlin]]",
             "Only available <before adopting [Autocracy]>",
@@ -963,7 +963,7 @@
     },
     {
         "name": "Freedom",
-        "era": "Ancient era",
+        "era": "Stone Age",
         "uniques": [
             "Comment [Unlocks [Statue of Liberty]]",
             "Only available <before adopting [Autocracy]>",
@@ -1185,7 +1185,7 @@
     },
     {
         "name": "Autocracy",
-        "era": "Ancient era",
+        "era": "Stone Age",
         "uniques": [
             "Comment [Unlocks [Prora]]",
             "Only available <before adopting [Order]>",
@@ -1402,9 +1402,9 @@
     },
     {
         "name": "Ideology",
-        "era": "Modern era",
+        "era": "Space Age",
         "uniques": [
-            "Comment [Choose an [Ideology] upon reaching the [Modern era], or owning 3 [Factory] buildings]",
+            "Comment [Choose an [Ideology] upon reaching the [Space Age], or owning 3 [Factory] buildings]",
 			// Humans are given an event to choose their Ideology.
             // AI will instead choose via the free policy once it's implemented correctly (sorry, I'm being lazy about adding it)
 
