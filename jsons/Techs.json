@@ -24,11 +24,13 @@
             {
                 "name": "LowStoneAge2",
                 "row": 7,
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "LowStoneAge3",
                 "row": 9,
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
         ]
@@ -148,24 +150,28 @@
                 "name": "LowerCopperAge1",
                 "row": 2,
                 "prerequisites": ["LateStoneAge"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "LowerCopperAge2",
                 "row": 5,
                 "prerequisites": ["LateStoneAge"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "LowerCopperAge3",
                 "row": 7,
                 "prerequisites": ["LateStoneAge"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "LowerCopperAge4",
                 "row": 9,
                 "prerequisites": ["LateStoneAge"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -181,24 +187,28 @@
                 "name": "MiddleCopperAge1",
                 "row": 2,
                 "prerequisites": ["LowerCopperAge1"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "MiddleCopperAge2",
                 "row": 5,
                 "prerequisites": ["LowerCopperAge2"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "MiddleCopperAge3",
                 "row": 7,
                 "prerequisites": ["LowerCopperAge3"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "MiddleCopperAge4",
                 "row": 9,
                 "prerequisites": ["LowerCopperAge4"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -214,24 +224,28 @@
                 "name": "UpperCopperAge1",
                 "row": 2,
                 "prerequisites": ["MiddleCopperAge1"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperCopperAge2",
                 "row": 5,
                 "prerequisites": ["MiddleCopperAge2"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperCopperAge3",
                 "row": 7,
                 "prerequisites": ["MiddleCopperAge3"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperCopperAge4",
                 "row": 9,
                 "prerequisites": ["MiddleCopperAge4"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -340,24 +354,28 @@
                 "name": "UpperBronzeAge1",
                 "row": 2,
                 "prerequisites": ["Philosophy"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperBronzeAge2",
                 "row": 5,
                 "prerequisites": ["Currency"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperBronzeAge3",
                 "row": 7,
                 "prerequisites": ["Engineering"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperBronzeAge4",
                 "row": 9,
                 "prerequisites": ["Iron Working"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -475,24 +493,28 @@
                 "name": "UpperIronAge1",
                 "row": 2,
                 "prerequisites": ["Education"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperIronAge2",
                 "row": 5,
                 "prerequisites": ["Chivalry"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperIronAge3",
                 "row": 7,
                 "prerequisites": ["Machinery"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperIronAge4",
                 "row": 9,
                 "prerequisites": ["Physics"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -523,24 +545,28 @@
                 "name": "LowerClassicalAge1",
                 "row": 2,
                 "prerequisites": ["LateIronAge"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "LowerClassicalAge2",
                 "row": 5,
                 "prerequisites": ["LateIronAge"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "LowerClassicalAge3",
                 "row": 7,
                 "prerequisites": ["LateIronAge"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "LowerClassicalAge4",
                 "row": 9,
                 "prerequisites": ["LateIronAge"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -556,24 +582,28 @@
                 "name": "MiddleClassicalAge1",
                 "row": 2,
                 "prerequisites": ["LowerClassicalAge1"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "MiddleClassicalAge2",
                 "row": 5,
                 "prerequisites": ["LowerClassicalAge2"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "MiddleClassicalAge3",
                 "row": 7,
                 "prerequisites": ["LowerClassicalAge3"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "MiddleClassicalAge4",
                 "row": 9,
                 "prerequisites": ["LowerClassicalAge4"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -589,24 +619,28 @@
                 "name": "UpperClassicalAge1",
                 "row": 2,
                 "prerequisites": ["MiddleClassicalAge1"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperClassicalAge2",
                 "row": 5,
                 "prerequisites": ["MiddleClassicalAge2"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperClassicalAge3",
                 "row": 7,
                 "prerequisites": ["MiddleClassicalAge3"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperClassicalAge4",
                 "row": 9,
                 "prerequisites": ["MiddleClassicalAge4"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -718,24 +752,28 @@
                 "name": "UpperMedievalAge1",
                 "row": 2,
                 "prerequisites": ["Architecture"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperMedievalAge2",
                 "row": 5,
                 "prerequisites": ["Economics"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperMedievalAge3",
                 "row": 7,
                 "prerequisites": ["Metallurgy"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperMedievalAge4",
                 "row": 9,
                 "prerequisites": ["Chemistry"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -845,24 +883,28 @@
                 "name": "UpperRenaissanceAge1",
                 "row": 2,
                 "prerequisites": ["Biology"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperRenaissanceAge2",
                 "row": 5,
                 "prerequisites": ["Electricity"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperRenaissanceAge3",
                 "row": 7,
                 "prerequisites": ["Steam Power"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperRenaissanceAge4",
                 "row": 9,
                 "prerequisites": ["Dynamite"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -966,24 +1008,28 @@
                 "name": "UpperIndustrialAge1",
                 "row": 2,
                 "prerequisites": ["Plastics"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperIndustrialAge2",
                 "row": 5,
                 "prerequisites": ["Electronics"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperIndustrialAge3",
                 "row": 7,
                 "prerequisites": ["Ballistics"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperIndustrialAge4",
                 "row": 9,
                 "prerequisites": ["Combustion"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -1081,24 +1127,28 @@
                 "name": "UpperNuclearAge1",
                 "row": 2,
                 "prerequisites": ["Ecology"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperNuclearAge2",
                 "row": 5,
                 "prerequisites": ["Nuclear Fission"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperNuclearAge3",
                 "row": 7,
                 "prerequisites": ["Rocketry"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperNuclearAge4",
                 "row": 9,
                 "prerequisites": ["Computers"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
@@ -1214,24 +1264,28 @@
                 "name": "UpperSpaceAge1",
                 "row": 2,
                 "prerequisites": ["Globalization"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperSpaceAge2",
                 "row": 5,
                 "prerequisites": ["Particle Physics"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperSpaceAge3",
                 "row": 7,
                 "prerequisites": ["Nanotechnology"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             },
             {
                 "name": "UpperSpaceAge4",
                 "row": 9,
                 "prerequisites": ["Stealth"],
+                "uniques": ["[+1 Science] [in all cities]"],
                 "quote": "'+1 Science in all cities"
             }
         ]
