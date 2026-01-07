@@ -1,13 +1,18 @@
 {
     "constants":
     {
-        "maxLakeSize": 25,
+        "maxXPfromBarbarians": 1024,
+        "cityWorkRange": 4,
+        "minimalCityDistance": 4,
+        "minimalCityDistanceOnDifferentContinents": 3,
+        "maxLakeSize": 50,
         "riverCountMultiplier": 0.045,
         "religionLimitBase": 0,
         "religionLimitMultiplier": 1,
-        "unitSupplyPerPopulation": 1,
+        "unitSupplyPerPopulation": 0.5,
         "pantheonBase": 20,
         "pantheonGrowth": 2,
+        "maxSpyRank": 5,
         "tributeGlobalModifier": 50,
         "tributeLocalModifier": 150,
         "scoreFromPopulation": 4,
